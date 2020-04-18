@@ -1,3 +1,3 @@
 # MyLittleUsefull
 
-Set of small usefuul scripts for GNU/Linux and Windows 10
+Set of small usefull scripts for GNU/Linux and Windows 10
